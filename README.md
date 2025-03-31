@@ -1,1 +1,0 @@
-# HandWritten-Text-Recognition
